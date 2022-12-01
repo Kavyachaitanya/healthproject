@@ -32,10 +32,10 @@ This is a web based application developed for health related based website in in
 
 ![Screenshot 2022-12-01 161904 #CONTACT](https://user-images.githubusercontent.com/113186330/205040508-4dc44fd1-69ba-4526-8f2d-79cc71930722.png)   
 
+![Screenshot 2022-12-01 162255 #HEALTHBOT](https://user-images.githubusercontent.com/113186330/205040524-9fe636f5-fe91-4d94-8ec4-5d3756f91549.png)
+
 ### About Us -
 ![Screenshot 2022-12-01 161729 #ABOUT US](https://user-images.githubusercontent.com/113186330/205040420-42eb1a92-938d-4fbb-8c98-82faab15a6b0.png)
-
-![Screenshot 2022-12-01 162255 #HEALTHBOT](https://user-images.githubusercontent.com/113186330/205040524-9fe636f5-fe91-4d94-8ec4-5d3756f91549.png)
 
 ### Services -
 ![Screenshot 2022-12-01 161814 #SERVICES](https://user-images.githubusercontent.com/113186330/205040444-34597845-4442-489c-943f-2759e5395075.png)
