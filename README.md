@@ -6,7 +6,8 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://white-sky-069140300.2.azurestaticapps.net
-  
+
+**Project video Link** - https://drive.google.com/file/d/1SuO-Xp1DnTvJehwZNc8zejOyNXUFB4ZN/view?usp=share_link
 
 ## Azure technologies used for Project
 
